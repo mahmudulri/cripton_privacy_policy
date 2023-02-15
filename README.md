@@ -1,6 +1,9 @@
-Cripton ERP Privacy Policy
+#Privacy Policy
 
-Pakiza technovation limited built the Cripton ERP app as a Free app. This SERVICE is provided by Pakiza technovation limited at no cost and is intended for use as is.
+##Cripton ERP Mobile application
+
+Pakiza technovation limited built the Cripton ERP app as a Free app and act only with CRIPTON ERP web application by Pakiza Technovation limited.
+This SERVICE is provided by Pakiza technovation limited at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -8,7 +11,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Cripton ERP unless otherwise defined in this Privacy Policy.
 
-nformation Collection and Use
+Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to location, camera, file, gallery. The information that we request will be retained by us and used as described in this privacy policy.
 
