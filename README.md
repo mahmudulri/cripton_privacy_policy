@@ -2,7 +2,7 @@
 
 ##Cripton ERP Mobile application
 
-Pakiza technovation limited built the Cripton ERP app as a Free app and act only with CRIPTON ERP web application by Pakiza Technovation limited.
+The Cripton ERP (Mobile) app is a Free app and act only with CRIPTON ERP web application by Pakiza Technovation limited.
 This SERVICE is provided by Pakiza technovation limited at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
